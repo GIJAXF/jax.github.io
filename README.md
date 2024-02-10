@@ -24,17 +24,14 @@ Thank you for visiting the JAX repository!
 
 ## Decompilers
 
-JetBrains dotPeek
+[JetBrains dotPeek](https://www.jetbrains.com/decompiler/)
 Excellent solution for compiled ".NET" files.
-https://www.jetbrains.com/decompiler/
 
-IDA Pro
+[IDA Pro](https://hex-rays.com/ida-pro/)
 Tool for binary analysis. Sometimes it's possible to determine the original language used for compilation and obtain metadata, variables, and states of a compiled program.
-https://hex-rays.com/ida-pro/
 
-SmartBear
+[SmartBear](https://support.smartbear.com/testcomplete/docs/licensing/index.html)
 Allows auditing fields and spaces directly while they are being executed. It has some limitations, but sometimes it's possible to obtain states or metadata of an application.
-https://support.smartbear.com/testcomplete/docs/licensing/index.html
 
-Spy++
+[Spy++](https://code.visualstudio.com/)
 Part of Visual Studio, it allows finding fields and auditing the current state of a system. Once Visual Studio is installed, it can be accessed through the "spyxx" file, which has different versions depending on the active system.
