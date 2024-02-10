@@ -1,5 +1,4 @@
-# jax.github.io
-##  "JAX Repository"
+#  "JAX Repository"
 
 Welcome to the JAX repository! Here you will find a collection of projects developed by JAX, a passionate programmer dedicated to exploring and creating solutions in various programming languages. From web applications to complex algorithms, this repository covers a wide range of technologies.
 Featured Projects
