@@ -22,7 +22,7 @@ Contact
 
 Thank you for visiting the JAX repository!
 
-"The only limit is your mind."
+**My motto "The only limit is your mind".**
 
 ## Decompilers
 > [!WARNING]
