@@ -1,4 +1,6 @@
 #  "JAX Repository"
+![Jax_Repository-removebg-preview(1)](https://github.com/GIJAXF/jax.github.io/assets/123037811/1a504948-cc63-49c7-85ef-a2cbff7a625a)
+
 > [!NOTE]
 > This repository is intended for inspiration or to solve doubts.
 
