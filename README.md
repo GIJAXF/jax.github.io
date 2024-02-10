@@ -22,6 +22,8 @@ Contact
 
 Thank you for visiting the JAX repository!
 
+"The only limit is your mind."
+
 ## Decompilers
 > [!WARNING]
 > Use these applications ethically and not to do evil.
