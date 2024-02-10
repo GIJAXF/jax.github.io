@@ -1,4 +1,6 @@
 #  "JAX Repository"
+> [!NOTE]
+> This repository is intended for inspiration or to solve doubts.
 
 Welcome to the JAX repository! Here you will find a collection of projects developed by JAX, a passionate programmer dedicated to exploring and creating solutions in various programming languages. From web applications to complex algorithms, this repository covers a wide range of technologies.
 Featured Projects
@@ -20,9 +22,10 @@ Contact
 
 Thank you for visiting the JAX repository!
 
-
 ## Decompilers
-
+> [!WARNING]
+> Use these applications ethically and not to do evil.
+> 
 [JetBrains dotPeek](https://www.jetbrains.com/decompiler/)
 
 Excellent solution for compiled ".NET" files.
