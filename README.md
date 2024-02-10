@@ -17,7 +17,7 @@ Collaboration
 We would love for you to get involved in our projects! If you have ideas, suggestions, or want to contribute, feel free to open an issue or send a pull request. Collaboration is the essence of the open-source community, and we look forward to having you on this journey.
 Contact
 
-  For any questions or inquiries, don't hesitate to contact JAX via email: j4x.d3v@gmail.com or on social media: https://www.reddit.com/user/Jax_Supreme
+  For any questions or inquiries, don't hesitate to contact JAX via [email](j4x.d3v@gmail.com) or on [social media](https://www.reddit.com/user/Jax_Supreme)
 
 Thank you for visiting the JAX repository!
 
